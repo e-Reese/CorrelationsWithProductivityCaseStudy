@@ -1,0 +1,496 @@
+,Year,Country Code,Country,Region,HUMAN FREEDOM,HUMAN FREEDOM RANK
+5,2021,AUS,Australia,Oceania,8.52,14.0
+6,2021,AUT,Austria,Western Europe,8.24,24.0
+13,2021,BEL,Belgium,Western Europe,8.33,22.0
+28,2021,CAN,Canada,North America,8.55,13.0
+39,2021,HRV,Croatia,Eastern Europe,7.96,34.0
+41,2021,CZE,Czech Republic,Eastern Europe,8.38,20.0
+42,2021,DNK,Denmark,Western Europe,8.83,3.0
+48,2021,EST,Estonia,Eastern Europe,8.75,5.0
+52,2021,FIN,Finland,Western Europe,8.7,9.0
+53,2021,FRA,France,Western Europe,7.86,39.0
+57,2021,DEU,Germany,Western Europe,8.37,21.0
+59,2021,GRC,Greece,Eastern Europe,7.49,57.0
+67,2021,HUN,Hungary,Eastern Europe,7.24,65.0
+68,2021,ISL,Iceland,Western Europe,8.73,7.0
+74,2021,ISR,Israel,Middle East & North Africa,7.43,59.0
+75,2021,ITA,Italy,Western Europe,7.95,36.0
+77,2021,JPN,Japan,East Asia,8.4,16.0
+81,2021,KOR,"Korea, Rep.",East Asia,8.12,28.0
+85,2021,LVA,Latvia,Eastern Europe,8.45,15.0
+90,2021,LTU,Lithuania,Eastern Europe,8.39,17.0
+91,2021,LUX,Luxembourg,Western Europe,8.71,8.0
+108,2021,NLD,Netherlands,Western Europe,8.57,11.0
+109,2021,NZL,New Zealand,Oceania,8.88,2.0
+114,2021,NOR,Norway,Western Europe,8.58,10.0
+122,2021,POL,Poland,Eastern Europe,7.69,47.0
+123,2021,PRT,Portugal,Western Europe,8.27,23.0
+134,2021,SVK,Slovak Republic,Eastern Europe,8.04,29.0
+135,2021,SVN,Slovenia,Eastern Europe,7.9,37.0
+138,2021,ESP,Spain,Western Europe,8.03,31.0
+142,2021,SWE,Sweden,Western Europe,8.75,5.0
+143,2021,CHE,Switzerland,Western Europe,9.01,1.0
+157,2021,GBR,United Kingdom,Western Europe,8.39,17.0
+158,2021,USA,United States,North America,8.39,17.0
+170,2020,AUS,Australia,Oceania,8.53,13.0
+171,2020,AUT,Austria,Western Europe,8.26,24.0
+178,2020,BEL,Belgium,Western Europe,8.32,21.0
+193,2020,CAN,Canada,North America,8.5,14.0
+204,2020,HRV,Croatia,Eastern Europe,7.82,42.0
+206,2020,CZE,Czech Republic,Eastern Europe,8.38,17.0
+207,2020,DNK,Denmark,Western Europe,8.81,3.0
+213,2020,EST,Estonia,Eastern Europe,8.77,4.0
+217,2020,FIN,Finland,Western Europe,8.7,7.0
+218,2020,FRA,France,Western Europe,7.87,39.0
+222,2020,DEU,Germany,Western Europe,8.38,17.0
+224,2020,GRC,Greece,Eastern Europe,7.49,57.0
+232,2020,HUN,Hungary,Eastern Europe,7.2,67.0
+233,2020,ISL,Iceland,Western Europe,8.71,6.0
+239,2020,ISR,Israel,Middle East & North Africa,7.38,60.0
+240,2020,ITA,Italy,Western Europe,8.01,33.0
+242,2020,JPN,Japan,East Asia,8.42,15.0
+246,2020,KOR,"Korea, Rep.",East Asia,8.12,27.0
+250,2020,LVA,Latvia,Eastern Europe,8.41,16.0
+255,2020,LTU,Lithuania,Eastern Europe,8.37,19.0
+256,2020,LUX,Luxembourg,Western Europe,8.66,9.0
+273,2020,NLD,Netherlands,Western Europe,8.59,10.0
+274,2020,NZL,New Zealand,Oceania,8.93,2.0
+279,2020,NOR,Norway,Western Europe,8.59,10.0
+287,2020,POL,Poland,Eastern Europe,7.72,45.0
+288,2020,PRT,Portugal,Western Europe,8.31,23.0
+299,2020,SVK,Slovak Republic,Eastern Europe,7.98,35.0
+300,2020,SVN,Slovenia,Eastern Europe,7.94,38.0
+303,2020,ESP,Spain,Western Europe,8.06,29.0
+307,2020,SWE,Sweden,Western Europe,8.7,7.0
+308,2020,CHE,Switzerland,Western Europe,8.96,1.0
+322,2020,GBR,United Kingdom,Western Europe,8.35,20.0
+323,2020,USA,United States,North America,8.32,21.0
+335,2019,AUS,Australia,Oceania,8.84,12.0
+336,2019,AUT,Austria,Western Europe,8.69,21.0
+343,2019,BEL,Belgium,Western Europe,8.57,25.0
+358,2019,CAN,Canada,North America,8.87,10.0
+369,2019,HRV,Croatia,Eastern Europe,8.1,41.0
+371,2019,CZE,Czech Republic,Eastern Europe,8.61,22.0
+372,2019,DNK,Denmark,Western Europe,9.05,3.0
+378,2019,EST,Estonia,Eastern Europe,8.97,4.0
+382,2019,FIN,Finland,Western Europe,8.92,7.0
+383,2019,FRA,France,Western Europe,8.3,35.0
+387,2019,DEU,Germany,Western Europe,8.77,17.0
+389,2019,GRC,Greece,Eastern Europe,7.78,56.0
+397,2019,HUN,Hungary,Eastern Europe,7.61,60.0
+398,2019,ISL,Iceland,Western Europe,8.9,8.0
+404,2019,ISR,Israel,Middle East & North Africa,7.63,59.0
+405,2019,ITA,Italy,Western Europe,8.4,30.0
+407,2019,JPN,Japan,East Asia,8.75,18.0
+411,2019,KOR,"Korea, Rep.",East Asia,8.31,34.0
+415,2019,LVA,Latvia,Eastern Europe,8.61,22.0
+420,2019,LTU,Lithuania,Eastern Europe,8.7,20.0
+421,2019,LUX,Luxembourg,Western Europe,8.95,6.0
+438,2019,NLD,Netherlands,Western Europe,8.82,13.0
+439,2019,NZL,New Zealand,Oceania,9.08,2.0
+444,2019,NOR,Norway,Western Europe,8.85,11.0
+452,2019,POL,Poland,Eastern Europe,7.95,45.0
+453,2019,PRT,Portugal,Western Europe,8.71,19.0
+464,2019,SVK,Slovak Republic,Eastern Europe,8.18,39.0
+465,2019,SVN,Slovenia,Eastern Europe,8.35,33.0
+468,2019,ESP,Spain,Western Europe,8.48,26.0
+472,2019,SWE,Sweden,Western Europe,8.89,9.0
+473,2019,CHE,Switzerland,Western Europe,9.17,1.0
+487,2019,GBR,United Kingdom,Western Europe,8.8,15.0
+488,2019,USA,United States,North America,8.79,16.0
+500,2018,AUS,Australia,Oceania,8.99,4.0
+501,2018,AUT,Austria,Western Europe,8.71,20.0
+508,2018,BEL,Belgium,Western Europe,8.57,26.0
+523,2018,CAN,Canada,North America,8.87,12.0
+534,2018,HRV,Croatia,Eastern Europe,8.15,39.0
+536,2018,CZE,Czech Republic,Eastern Europe,8.65,24.0
+537,2018,DNK,Denmark,Western Europe,9.04,3.0
+543,2018,EST,Estonia,Eastern Europe,8.98,5.0
+547,2018,FIN,Finland,Western Europe,8.96,6.0
+548,2018,FRA,France,Western Europe,8.31,35.0
+552,2018,DEU,Germany,Western Europe,8.78,17.0
+554,2018,GRC,Greece,Eastern Europe,7.75,56.0
+562,2018,HUN,Hungary,Eastern Europe,7.63,58.0
+563,2018,ISL,Iceland,Western Europe,8.9,9.0
+569,2018,ISR,Israel,Middle East & North Africa,7.57,60.0
+570,2018,ITA,Italy,Western Europe,8.39,30.0
+572,2018,JPN,Japan,East Asia,8.75,18.0
+576,2018,KOR,"Korea, Rep.",East Asia,8.37,31.0
+580,2018,LVA,Latvia,Eastern Europe,8.59,25.0
+585,2018,LTU,Lithuania,Eastern Europe,8.67,22.0
+586,2018,LUX,Luxembourg,Western Europe,8.96,6.0
+603,2018,NLD,Netherlands,Western Europe,8.83,15.0
+604,2018,NZL,New Zealand,Oceania,9.2,1.0
+609,2018,NOR,Norway,Western Europe,8.89,11.0
+617,2018,POL,Poland,Eastern Europe,7.95,47.0
+618,2018,PRT,Portugal,Western Europe,8.71,20.0
+629,2018,SVK,Slovak Republic,Eastern Europe,8.18,37.0
+630,2018,SVN,Slovenia,Eastern Europe,8.37,31.0
+633,2018,ESP,Spain,Western Europe,8.45,28.0
+637,2018,SWE,Sweden,Western Europe,8.9,9.0
+638,2018,CHE,Switzerland,Western Europe,9.19,2.0
+652,2018,GBR,United Kingdom,Western Europe,8.84,14.0
+653,2018,USA,United States,North America,8.85,13.0
+665,2017,AUS,Australia,Oceania,8.98,4.0
+666,2017,AUT,Austria,Western Europe,8.79,15.0
+673,2017,BEL,Belgium,Western Europe,8.57,26.0
+688,2017,CAN,Canada,North America,8.9,12.0
+699,2017,HRV,Croatia,Eastern Europe,8.17,39.0
+701,2017,CZE,Czech Republic,Eastern Europe,8.68,23.0
+702,2017,DNK,Denmark,Western Europe,9.04,3.0
+708,2017,EST,Estonia,Eastern Europe,8.96,5.0
+712,2017,FIN,Finland,Western Europe,8.92,8.0
+713,2017,FRA,France,Western Europe,8.41,29.0
+717,2017,DEU,Germany,Western Europe,8.78,18.0
+719,2017,GRC,Greece,Eastern Europe,7.62,58.0
+727,2017,HUN,Hungary,Eastern Europe,7.71,55.0
+728,2017,ISL,Iceland,Western Europe,8.92,8.0
+734,2017,ISR,Israel,Middle East & North Africa,7.63,57.0
+735,2017,ITA,Italy,Western Europe,8.4,30.0
+737,2017,JPN,Japan,East Asia,8.72,20.0
+741,2017,KOR,"Korea, Rep.",East Asia,8.39,32.0
+745,2017,LVA,Latvia,Eastern Europe,8.6,25.0
+750,2017,LTU,Lithuania,Eastern Europe,8.64,24.0
+751,2017,LUX,Luxembourg,Western Europe,8.96,5.0
+768,2017,NLD,Netherlands,Western Europe,8.79,15.0
+769,2017,NZL,New Zealand,Oceania,9.2,1.0
+774,2017,NOR,Norway,Western Europe,8.92,8.0
+782,2017,POL,Poland,Eastern Europe,8.01,43.0
+783,2017,PRT,Portugal,Western Europe,8.71,21.0
+794,2017,SVK,Slovak Republic,Eastern Europe,8.28,36.0
+795,2017,SVN,Slovenia,Eastern Europe,8.35,34.0
+798,2017,ESP,Spain,Western Europe,8.4,30.0
+802,2017,SWE,Sweden,Western Europe,8.92,8.0
+803,2017,CHE,Switzerland,Western Europe,9.2,1.0
+817,2017,GBR,United Kingdom,Western Europe,8.86,13.0
+818,2017,USA,United States,North America,8.86,13.0
+830,2016,AUS,Australia,Oceania,8.99,4.0
+831,2016,AUT,Austria,Western Europe,8.84,15.0
+838,2016,BEL,Belgium,Western Europe,8.48,29.0
+853,2016,CAN,Canada,North America,8.92,11.0
+864,2016,HRV,Croatia,Eastern Europe,8.13,40.0
+866,2016,CZE,Czech Republic,Eastern Europe,8.74,19.0
+867,2016,DNK,Denmark,Western Europe,9.07,3.0
+873,2016,EST,Estonia,Eastern Europe,8.97,5.0
+877,2016,FIN,Finland,Western Europe,8.93,9.0
+878,2016,FRA,France,Western Europe,8.4,31.0
+882,2016,DEU,Germany,Western Europe,8.81,17.0
+884,2016,GRC,Greece,Eastern Europe,7.56,57.0
+892,2016,HUN,Hungary,Eastern Europe,7.91,48.0
+893,2016,ISL,Iceland,Western Europe,8.93,9.0
+899,2016,ISR,Israel,Middle East & North Africa,7.63,54.0
+900,2016,ITA,Italy,Western Europe,8.4,31.0
+902,2016,JPN,Japan,East Asia,8.69,21.0
+906,2016,KOR,"Korea, Rep.",East Asia,8.18,37.0
+910,2016,LVA,Latvia,Eastern Europe,8.63,25.0
+915,2016,LTU,Lithuania,Eastern Europe,8.65,22.0
+916,2016,LUX,Luxembourg,Western Europe,8.92,11.0
+933,2016,NLD,Netherlands,Western Europe,8.82,16.0
+934,2016,NZL,New Zealand,Oceania,9.23,1.0
+939,2016,NOR,Norway,Western Europe,8.91,13.0
+947,2016,POL,Poland,Eastern Europe,8.15,39.0
+948,2016,PRT,Portugal,Western Europe,8.74,19.0
+959,2016,SVK,Slovak Republic,Eastern Europe,8.39,33.0
+960,2016,SVN,Slovenia,Eastern Europe,8.35,35.0
+963,2016,ESP,Spain,Western Europe,8.56,27.0
+967,2016,SWE,Sweden,Western Europe,8.96,7.0
+968,2016,CHE,Switzerland,Western Europe,9.14,2.0
+982,2016,GBR,United Kingdom,Western Europe,8.94,8.0
+983,2016,USA,United States,North America,8.9,14.0
+995,2015,AUS,Australia,Oceania,8.97,6.0
+996,2015,AUT,Austria,Western Europe,8.78,16.0
+1003,2015,BEL,Belgium,Western Europe,8.6,26.0
+1018,2015,CAN,Canada,North America,8.92,12.0
+1029,2015,HRV,Croatia,Eastern Europe,8.2,38.0
+1031,2015,CZE,Czech Republic,Eastern Europe,8.6,26.0
+1032,2015,DNK,Denmark,Western Europe,9.06,3.0
+1038,2015,EST,Estonia,Eastern Europe,8.95,7.0
+1042,2015,FIN,Finland,Western Europe,8.94,9.0
+1043,2015,FRA,France,Western Europe,8.44,29.0
+1047,2015,DEU,Germany,Western Europe,8.83,14.0
+1049,2015,GRC,Greece,Eastern Europe,7.6,54.0
+1057,2015,HUN,Hungary,Eastern Europe,7.86,45.0
+1058,2015,ISL,Iceland,Western Europe,8.72,19.0
+1064,2015,ISR,Israel,Middle East & North Africa,7.63,53.0
+1065,2015,ITA,Italy,Western Europe,8.42,31.0
+1067,2015,JPN,Japan,East Asia,8.68,20.0
+1071,2015,KOR,"Korea, Rep.",East Asia,8.18,39.0
+1075,2015,LVA,Latvia,Eastern Europe,8.64,23.0
+1080,2015,LTU,Lithuania,Eastern Europe,8.63,24.0
+1081,2015,LUX,Luxembourg,Western Europe,8.93,11.0
+1098,2015,NLD,Netherlands,Western Europe,8.84,13.0
+1099,2015,NZL,New Zealand,Oceania,9.22,1.0
+1104,2015,NOR,Norway,Western Europe,8.73,18.0
+1112,2015,POL,Poland,Eastern Europe,8.34,35.0
+1113,2015,PRT,Portugal,Western Europe,8.76,17.0
+1124,2015,SVK,Slovak Republic,Eastern Europe,8.38,33.0
+1125,2015,SVN,Slovenia,Eastern Europe,8.4,32.0
+1128,2015,ESP,Spain,Western Europe,8.55,28.0
+1132,2015,SWE,Sweden,Western Europe,8.99,5.0
+1133,2015,CHE,Switzerland,Western Europe,9.13,2.0
+1147,2015,GBR,United Kingdom,Western Europe,8.95,7.0
+1148,2015,USA,United States,North America,8.94,9.0
+1160,2014,AUS,Australia,Oceania,8.99,4.0
+1161,2014,AUT,Austria,Western Europe,8.85,14.0
+1168,2014,BEL,Belgium,Western Europe,8.66,23.0
+1183,2014,CAN,Canada,North America,8.97,9.0
+1194,2014,HRV,Croatia,Eastern Europe,8.13,39.0
+1196,2014,CZE,Czech Republic,Eastern Europe,8.63,26.0
+1197,2014,DNK,Denmark,Western Europe,9.07,3.0
+1203,2014,EST,Estonia,Eastern Europe,8.91,12.0
+1207,2014,FIN,Finland,Western Europe,8.99,4.0
+1208,2014,FRA,France,Western Europe,8.57,28.0
+1212,2014,DEU,Germany,Western Europe,8.84,15.0
+1214,2014,GRC,Greece,Eastern Europe,7.76,52.0
+1222,2014,HUN,Hungary,Eastern Europe,8.04,40.0
+1223,2014,ISL,Iceland,Western Europe,8.69,21.0
+1229,2014,ISR,Israel,Middle East & North Africa,7.53,59.0
+1230,2014,ITA,Italy,Western Europe,8.39,33.0
+1232,2014,JPN,Japan,East Asia,8.65,24.0
+1236,2014,KOR,"Korea, Rep.",East Asia,8.19,37.0
+1240,2014,LVA,Latvia,Eastern Europe,8.73,20.0
+1245,2014,LTU,Lithuania,Eastern Europe,8.65,24.0
+1246,2014,LUX,Luxembourg,Western Europe,8.98,7.0
+1263,2014,NLD,Netherlands,Western Europe,8.82,16.0
+1264,2014,NZL,New Zealand,Oceania,9.22,1.0
+1269,2014,NOR,Norway,Western Europe,8.9,13.0
+1277,2014,POL,Poland,Eastern Europe,8.39,33.0
+1278,2014,PRT,Portugal,Western Europe,8.75,19.0
+1289,2014,SVK,Slovak Republic,Eastern Europe,8.46,30.0
+1290,2014,SVN,Slovenia,Eastern Europe,8.44,31.0
+1293,2014,ESP,Spain,Western Europe,8.56,29.0
+1297,2014,SWE,Sweden,Western Europe,8.99,4.0
+1298,2014,CHE,Switzerland,Western Europe,9.11,2.0
+1312,2014,GBR,United Kingdom,Western Europe,8.93,11.0
+1313,2014,USA,United States,North America,8.94,10.0
+1325,2013,AUS,Australia,Oceania,8.97,4.0
+1326,2013,AUT,Austria,Western Europe,8.81,15.0
+1333,2013,BEL,Belgium,Western Europe,8.56,26.0
+1348,2013,CAN,Canada,North America,8.85,12.0
+1359,2013,HRV,Croatia,Eastern Europe,8.12,39.0
+1361,2013,CZE,Czech Republic,Eastern Europe,8.64,22.0
+1362,2013,DNK,Denmark,Western Europe,9.02,3.0
+1368,2013,EST,Estonia,Eastern Europe,8.84,13.0
+1372,2013,FIN,Finland,Western Europe,8.96,5.0
+1373,2013,FRA,France,Western Europe,8.55,28.0
+1377,2013,DEU,Germany,Western Europe,8.8,16.0
+1379,2013,GRC,Greece,Eastern Europe,7.7,53.0
+1387,2013,HUN,Hungary,Eastern Europe,8.06,41.0
+1388,2013,ISL,Iceland,Western Europe,8.64,22.0
+1394,2013,ISR,Israel,Middle East & North Africa,7.73,52.0
+1395,2013,ITA,Italy,Western Europe,8.44,30.0
+1397,2013,JPN,Japan,East Asia,8.65,21.0
+1401,2013,KOR,"Korea, Rep.",East Asia,8.2,37.0
+1405,2013,LVA,Latvia,Eastern Europe,8.67,20.0
+1410,2013,LTU,Lithuania,Eastern Europe,8.56,26.0
+1411,2013,LUX,Luxembourg,Western Europe,8.91,8.0
+1428,2013,NLD,Netherlands,Western Europe,8.74,18.0
+1429,2013,NZL,New Zealand,Oceania,9.2,1.0
+1434,2013,NOR,Norway,Western Europe,8.91,8.0
+1442,2013,POL,Poland,Eastern Europe,8.35,33.0
+1443,2013,PRT,Portugal,Western Europe,8.7,19.0
+1454,2013,SVK,Slovak Republic,Eastern Europe,8.43,31.0
+1455,2013,SVN,Slovenia,Eastern Europe,8.35,33.0
+1458,2013,ESP,Spain,Western Europe,8.52,29.0
+1462,2013,SWE,Sweden,Western Europe,8.94,6.0
+1463,2013,CHE,Switzerland,Western Europe,9.08,2.0
+1477,2013,GBR,United Kingdom,Western Europe,8.89,10.0
+1478,2013,USA,United States,North America,8.89,10.0
+1490,2012,AUS,Australia,Oceania,8.98,5.0
+1491,2012,AUT,Austria,Western Europe,8.78,15.0
+1498,2012,BEL,Belgium,Western Europe,8.53,27.0
+1513,2012,CAN,Canada,North America,8.8,14.0
+1524,2012,HRV,Croatia,Eastern Europe,7.88,46.0
+1526,2012,CZE,Czech Republic,Eastern Europe,8.65,20.0
+1527,2012,DNK,Denmark,Western Europe,9.0,4.0
+1533,2012,EST,Estonia,Eastern Europe,8.81,13.0
+1537,2012,FIN,Finland,Western Europe,9.01,3.0
+1538,2012,FRA,France,Western Europe,8.53,27.0
+1542,2012,DEU,Germany,Western Europe,8.75,17.0
+1544,2012,GRC,Greece,Eastern Europe,7.9,45.0
+1552,2012,HUN,Hungary,Eastern Europe,8.09,39.0
+1553,2012,ISL,Iceland,Western Europe,8.65,20.0
+1559,2012,ISR,Israel,Middle East & North Africa,7.6,55.0
+1560,2012,ITA,Italy,Western Europe,8.45,32.0
+1562,2012,JPN,Japan,East Asia,8.63,22.0
+1566,2012,KOR,"Korea, Rep.",East Asia,8.21,38.0
+1570,2012,LVA,Latvia,Eastern Europe,8.62,24.0
+1575,2012,LTU,Lithuania,Eastern Europe,8.51,29.0
+1576,2012,LUX,Luxembourg,Western Europe,8.86,12.0
+1593,2012,NLD,Netherlands,Western Europe,8.73,18.0
+1594,2012,NZL,New Zealand,Oceania,9.19,1.0
+1599,2012,NOR,Norway,Western Europe,8.91,9.0
+1607,2012,POL,Poland,Eastern Europe,8.38,35.0
+1608,2012,PRT,Portugal,Western Europe,8.63,22.0
+1619,2012,SVK,Slovak Republic,Eastern Europe,8.46,31.0
+1620,2012,SVN,Slovenia,Eastern Europe,8.39,34.0
+1623,2012,ESP,Spain,Western Europe,8.57,26.0
+1627,2012,SWE,Sweden,Western Europe,8.94,6.0
+1628,2012,CHE,Switzerland,Western Europe,9.12,2.0
+1642,2012,GBR,United Kingdom,Western Europe,8.89,10.0
+1643,2012,USA,United States,North America,8.87,11.0
+1655,2011,AUS,Australia,Oceania,8.98,6.0
+1656,2011,AUT,Austria,Western Europe,8.74,18.0
+1663,2011,BEL,Belgium,Western Europe,8.62,22.0
+1678,2011,CAN,Canada,North America,8.79,13.0
+1689,2011,HRV,Croatia,Eastern Europe,7.9,46.0
+1691,2011,CZE,Czech Republic,Eastern Europe,8.61,25.0
+1692,2011,DNK,Denmark,Western Europe,9.01,4.0
+1698,2011,EST,Estonia,Eastern Europe,8.83,12.0
+1702,2011,FIN,Finland,Western Europe,9.04,3.0
+1703,2011,FRA,France,Western Europe,8.55,28.0
+1707,2011,DEU,Germany,Western Europe,8.77,14.0
+1709,2011,GRC,Greece,Eastern Europe,7.97,43.0
+1717,2011,HUN,Hungary,Eastern Europe,8.25,38.0
+1718,2011,ISL,Iceland,Western Europe,8.6,26.0
+1724,2011,ISR,Israel,Middle East & North Africa,7.59,58.0
+1725,2011,ITA,Italy,Western Europe,8.45,33.0
+1727,2011,JPN,Japan,East Asia,8.62,22.0
+1731,2011,KOR,"Korea, Rep.",East Asia,8.28,37.0
+1735,2011,LVA,Latvia,Eastern Europe,8.56,27.0
+1740,2011,LTU,Lithuania,Eastern Europe,8.49,30.0
+1741,2011,LUX,Luxembourg,Western Europe,8.86,10.0
+1758,2011,NLD,Netherlands,Western Europe,8.75,17.0
+1759,2011,NZL,New Zealand,Oceania,9.17,1.0
+1764,2011,NOR,Norway,Western Europe,8.76,15.0
+1772,2011,POL,Poland,Eastern Europe,8.34,35.0
+1773,2011,PRT,Portugal,Western Europe,8.62,22.0
+1784,2011,SVK,Slovak Republic,Eastern Europe,8.51,29.0
+1785,2011,SVN,Slovenia,Eastern Europe,8.39,34.0
+1788,2011,ESP,Spain,Western Europe,8.68,20.0
+1792,2011,SWE,Sweden,Western Europe,8.96,7.0
+1793,2011,CHE,Switzerland,Western Europe,9.13,2.0
+1807,2011,GBR,United Kingdom,Western Europe,8.9,9.0
+1808,2011,USA,United States,North America,8.86,10.0
+1820,2010,AUS,Australia,Oceania,8.98,6.0
+1821,2010,AUT,Austria,Western Europe,8.66,18.0
+1828,2010,BEL,Belgium,Western Europe,8.54,25.0
+1843,2010,CAN,Canada,North America,8.86,9.0
+1854,2010,HRV,Croatia,Eastern Europe,7.7,52.0
+1856,2010,CZE,Czech Republic,Eastern Europe,8.59,21.0
+1857,2010,DNK,Denmark,Western Europe,8.99,5.0
+1863,2010,EST,Estonia,Eastern Europe,8.85,11.0
+1867,2010,FIN,Finland,Western Europe,9.01,3.0
+1868,2010,FRA,France,Western Europe,8.58,22.0
+1872,2010,DEU,Germany,Western Europe,8.74,16.0
+1874,2010,GRC,Greece,Eastern Europe,7.99,44.0
+1882,2010,HUN,Hungary,Eastern Europe,8.39,31.0
+1883,2010,ISL,Iceland,Western Europe,8.52,27.0
+1889,2010,ISR,Israel,Middle East & North Africa,7.67,54.0
+1890,2010,ITA,Italy,Western Europe,8.37,33.0
+1892,2010,JPN,Japan,East Asia,8.65,20.0
+1896,2010,KOR,"Korea, Rep.",East Asia,8.27,37.0
+1900,2010,LVA,Latvia,Eastern Europe,8.5,28.0
+1905,2010,LTU,Lithuania,Eastern Europe,8.39,31.0
+1906,2010,LUX,Luxembourg,Western Europe,8.83,14.0
+1923,2010,NLD,Netherlands,Western Europe,8.72,17.0
+1924,2010,NZL,New Zealand,Oceania,9.15,1.0
+1929,2010,NOR,Norway,Western Europe,8.85,11.0
+1937,2010,POL,Poland,Eastern Europe,8.32,35.0
+1938,2010,PRT,Portugal,Western Europe,8.53,26.0
+1949,2010,SVK,Slovak Republic,Eastern Europe,8.5,28.0
+1950,2010,SVN,Slovenia,Eastern Europe,8.35,34.0
+1953,2010,ESP,Spain,Western Europe,8.58,22.0
+1957,2010,SWE,Sweden,Western Europe,8.96,7.0
+1958,2010,CHE,Switzerland,Western Europe,9.15,1.0
+1972,2010,GBR,United Kingdom,Western Europe,8.89,8.0
+1973,2010,USA,United States,North America,8.86,9.0
+1985,2009,AUS,Australia,Oceania,8.96,6.0
+1986,2009,AUT,Austria,Western Europe,8.72,15.0
+1993,2009,BEL,Belgium,Western Europe,8.55,23.0
+2008,2009,CAN,Canada,North America,8.91,7.0
+2019,2009,HRV,Croatia,Eastern Europe,7.65,52.0
+2021,2009,CZE,Czech Republic,Eastern Europe,8.55,23.0
+2022,2009,DNK,Denmark,Western Europe,8.98,4.0
+2028,2009,EST,Estonia,Eastern Europe,8.77,14.0
+2032,2009,FIN,Finland,Western Europe,8.97,5.0
+2033,2009,FRA,France,Western Europe,8.57,22.0
+2037,2009,DEU,Germany,Western Europe,8.71,16.0
+2039,2009,GRC,Greece,Eastern Europe,7.99,43.0
+2047,2009,HUN,Hungary,Eastern Europe,8.43,30.0
+2048,2009,ISL,Iceland,Western Europe,8.58,21.0
+2054,2009,ISR,Israel,Middle East & North Africa,7.52,57.0
+2055,2009,ITA,Italy,Western Europe,8.3,34.0
+2057,2009,JPN,Japan,East Asia,8.63,20.0
+2061,2009,KOR,"Korea, Rep.",East Asia,8.23,37.0
+2065,2009,LVA,Latvia,Eastern Europe,8.46,28.0
+2070,2009,LTU,Lithuania,Eastern Europe,8.34,33.0
+2071,2009,LUX,Luxembourg,Western Europe,8.86,10.0
+2088,2009,NLD,Netherlands,Western Europe,8.71,16.0
+2089,2009,NZL,New Zealand,Oceania,9.14,2.0
+2094,2009,NOR,Norway,Western Europe,8.83,11.0
+2102,2009,POL,Poland,Eastern Europe,8.3,34.0
+2103,2009,PRT,Portugal,Western Europe,8.5,25.0
+2114,2009,SVK,Slovak Republic,Eastern Europe,8.47,27.0
+2115,2009,SVN,Slovenia,Eastern Europe,8.37,32.0
+2118,2009,ESP,Spain,Western Europe,8.49,26.0
+2122,2009,SWE,Sweden,Western Europe,8.9,8.0
+2123,2009,CHE,Switzerland,Western Europe,9.15,1.0
+2137,2009,GBR,United Kingdom,Western Europe,8.89,9.0
+2138,2009,USA,United States,North America,8.81,12.0
+2150,2008,AUS,Australia,Oceania,8.91,7.0
+2151,2008,AUT,Austria,Western Europe,8.73,17.0
+2158,2008,BEL,Belgium,Western Europe,8.56,25.0
+2173,2008,CAN,Canada,North America,8.91,7.0
+2184,2008,HRV,Croatia,Eastern Europe,7.65,49.0
+2186,2008,CZE,Czech Republic,Eastern Europe,8.55,26.0
+2187,2008,DNK,Denmark,Western Europe,9.02,3.0
+2193,2008,EST,Estonia,Eastern Europe,8.76,14.0
+2197,2008,FIN,Finland,Western Europe,8.99,4.0
+2198,2008,FRA,France,Western Europe,8.65,20.0
+2202,2008,DEU,Germany,Western Europe,8.69,18.0
+2204,2008,GRC,Greece,Eastern Europe,8.01,43.0
+2212,2008,HUN,Hungary,Eastern Europe,8.4,31.0
+2213,2008,ISL,Iceland,Western Europe,8.75,16.0
+2219,2008,ISR,Israel,Middle East & North Africa,7.33,66.0
+2220,2008,ITA,Italy,Western Europe,8.35,34.0
+2222,2008,JPN,Japan,East Asia,8.59,23.0
+2226,2008,KOR,"Korea, Rep.",East Asia,8.26,36.0
+2230,2008,LVA,Latvia,Eastern Europe,8.52,28.0
+2235,2008,LTU,Lithuania,Eastern Europe,8.38,32.0
+2236,2008,LUX,Luxembourg,Western Europe,8.88,11.0
+2253,2008,NLD,Netherlands,Western Europe,8.76,14.0
+2254,2008,NZL,New Zealand,Oceania,9.18,1.0
+2259,2008,NOR,Norway,Western Europe,8.86,13.0
+2267,2008,POL,Poland,Eastern Europe,8.28,35.0
+2268,2008,PRT,Portugal,Western Europe,8.57,24.0
+2279,2008,SVK,Slovak Republic,Eastern Europe,8.53,27.0
+2280,2008,SVN,Slovenia,Eastern Europe,8.36,33.0
+2283,2008,ESP,Spain,Western Europe,8.62,21.0
+2287,2008,SWE,Sweden,Western Europe,8.89,9.0
+2288,2008,CHE,Switzerland,Western Europe,9.16,2.0
+2302,2008,GBR,United Kingdom,Western Europe,8.92,6.0
+2303,2008,USA,United States,North America,8.89,9.0
+2315,2007,AUS,Australia,Oceania,8.99,7.0
+2316,2007,AUT,Austria,Western Europe,8.76,17.0
+2323,2007,BEL,Belgium,Western Europe,8.59,24.0
+2338,2007,CAN,Canada,North America,8.92,11.0
+2349,2007,HRV,Croatia,Eastern Europe,7.73,47.0
+2351,2007,CZE,Czech Republic,Eastern Europe,8.59,24.0
+2352,2007,DNK,Denmark,Western Europe,9.07,3.0
+2358,2007,EST,Estonia,Eastern Europe,8.79,15.0
+2362,2007,FIN,Finland,Western Europe,9.0,5.0
+2363,2007,FRA,France,Western Europe,8.68,19.0
+2367,2007,DEU,Germany,Western Europe,8.71,18.0
+2369,2007,GRC,Greece,Eastern Europe,8.1,40.0
+2377,2007,HUN,Hungary,Eastern Europe,8.4,33.0
+2378,2007,ISL,Iceland,Western Europe,9.04,4.0
+2384,2007,ISR,Israel,Middle East & North Africa,7.48,62.0
+2385,2007,ITA,Italy,Western Europe,8.39,34.0
+2387,2007,JPN,Japan,East Asia,8.63,22.0
+2391,2007,KOR,"Korea, Rep.",East Asia,8.41,31.0
+2395,2007,LVA,Latvia,Eastern Europe,8.53,27.0
+2400,2007,LTU,Lithuania,Eastern Europe,8.49,30.0
+2401,2007,LUX,Luxembourg,Western Europe,8.89,14.0
+2418,2007,NLD,Netherlands,Western Europe,8.79,15.0
+2419,2007,NZL,New Zealand,Oceania,9.2,1.0
+2424,2007,NOR,Norway,Western Europe,8.92,11.0
+2432,2007,POL,Poland,Eastern Europe,8.23,38.0
+2433,2007,PRT,Portugal,Western Europe,8.6,23.0
+2444,2007,SVK,Slovak Republic,Eastern Europe,8.53,27.0
+2445,2007,SVN,Slovenia,Eastern Europe,8.36,35.0
+2448,2007,ESP,Spain,Western Europe,8.59,24.0
+2452,2007,SWE,Sweden,Western Europe,8.9,13.0
+2453,2007,CHE,Switzerland,Western Europe,9.2,1.0
+2467,2007,GBR,United Kingdom,Western Europe,8.96,8.0
+2468,2007,USA,United States,North America,8.94,9.0
