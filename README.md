@@ -5,6 +5,11 @@ To replicate the results of this study, please first run 'CleanDataAndExport.ipy
 
 For any questions about this work, please email: <a href="mailto:eoreese@proton.me">eoreese@proton.me</a>
 
+## General Methodology 
+
+
+## Notes
+
 
 ## Citations
 The Economist and Solstad, Sondre (corresponding author), 2023. "All work and no play", The Economist, October 4th issue, 2023.
