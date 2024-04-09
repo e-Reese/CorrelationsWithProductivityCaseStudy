@@ -9,7 +9,10 @@ To replicate the results of this study, please first run 'CleanDataAndExport.ipy
 For any questions about this work, please email: <a href="mailto:eoreese@proton.me">eoreese@proton.me</a>
 
 ## Notes
-This study includes data from countries from 2007-2022. Although not all countries in the study had 15 years of data for all of the datasets used, a minimum of 10 years of data was required to include the country in the study. Productivity data comes from the analysis created by Sondre Solstad found [here](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) but originally comes from the OECD, World Bank, UN, and Penn World Table. The happiness data came from the 2023 World Happiness Report, CO2 data came from Our World in Data, the data on homicide rates came from the UNODC's dashboard showing intentional homicide rates, and the human freedom data used came from the CATO institute's Human Freedom Index report. 
+This study includes data from countries from 2007-2022. Although not all countries in the study had 15 years of data for all of the datasets used, a minimum of 10 years of data was required to include the country in the study. 
+
+Productivity data comes from the analysis created by Sondre Solstad found [here](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) but originally comes from the OECD, World Bank, UN, and Penn World Table. The happiness data came from the 2023 World Happiness Report, CO2 data came from Our World in Data, the data on homicide rates came from the UNODC's dashboard showing intentional homicide rates, and the human freedom data used came from the CATO institute's Human Freedom Index report. 
+
 All correlations are calculated with Pearsons Correlation Coefficient. 
 
 
