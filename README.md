@@ -16,8 +16,7 @@ All correlations are calculated with Pearsons Correlation Coefficient.
 ## Data
 Productivity:
 [Sondre Solstad "All work and no play"](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates), [OECD](https://data.oecd.org/), [World Bank](https://data.worldbank.org/), [UN](https://population.un.org/dataportal/), and [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
-
-Happiness: [WHR](https://worldhappiness.report/data/)
+\nHappiness: [WHR](https://worldhappiness.report/data/)
 
 CO2 Emissions: [OWID](https://ourworldindata.org/)
 [Specific Page]([https://github.com/owid/co2-data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions))
