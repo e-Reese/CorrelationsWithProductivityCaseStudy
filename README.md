@@ -30,4 +30,4 @@ Human Freedom: [CATO](https://www.cato.org) - [Specific Page](https://www.cato.o
 The Economist and Solstad, Sondre (corresponding author), 2023. "All work and no play", The Economist, October 4th issue, 2023.
 
 ## Suggested Citation
-Reese, Ethan (Corresponding Author), 2024. 
+Reese, Ethan (Corresponding Author), 2024. "Correlations With Productivity"
