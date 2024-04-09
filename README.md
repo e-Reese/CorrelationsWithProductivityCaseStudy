@@ -14,7 +14,7 @@ All correlations are calculated with Pearsons Correlation Coefficient.
 
 
 ## Data
-<p>Productivity:
+Productivity:
 [Sondre Solstad "All work and no play"](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates), [OECD](https://data.oecd.org/), [World Bank](https://data.worldbank.org/), [UN](https://population.un.org/dataportal/), and [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).<br>  
 Happiness: [WHR](https://worldhappiness.report/data/)<br>  
 CO2 Emissions: [OWID](https://ourworldindata.org/)<br>  
@@ -22,7 +22,7 @@ CO2 Emissions: [OWID](https://ourworldindata.org/)<br>
 Homicide Rates: [UNODC](https://dataunodc.un.org)<br>  
 [Specific Page](https://dataunodc.un.org/dp-intentional-homicide-victims)<br>  
 Human Freedom: [CATO](https://www.cato.org/human-freedom-index/2021)<br>  
-[Specific Article](https://www.cato.org/human-freedom-index/2021)</p>
+[Specific Article](https://www.cato.org/human-freedom-index/2021)
 
 
 
