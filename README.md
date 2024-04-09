@@ -19,7 +19,7 @@ Productivity:
 Happiness: [WHR](https://worldhappiness.report/data/)<br>  
 CO2 Emissions: [OWID](https://ourworldindata.org/) - [Specific Page](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions)<br>  
 Homicide Rates: [UNODC](https://dataunodc.un.org) - [Specific Page](https://dataunodc.un.org/dp-intentional-homicide-victims)<br>  
-Human Freedom: [CATO](https://www.cato.org/human-freedom-index/2021) - [Specific Page](https://www.cato.org/human-freedom-index/2021)
+Human Freedom: [CATO](https://www.cato.org) - [Specific Page](https://www.cato.org/human-freedom-index/2021)
 
 
 
