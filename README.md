@@ -8,10 +8,22 @@ To replicate the results of this study, please first run 'CleanDataAndExport.ipy
 
 For any questions about this work, please email: <a href="mailto:eoreese@proton.me">eoreese@proton.me</a>
 
-## General Methodology 
-
-
 ## Notes
+This study includes data from countries from 2007-2022. Although not all countries in the study had 15 years of data for all of the datasets used, a minimum of 10 years of data was required to include the country in the study. Productivity data comes from the analysis created by Sondre Solstad found [here](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) but originally comes from the OECD, World Bank, UN, and Penn World Table. The happiness data came from the 2023 World Happiness Report, CO2 data came from Our World in Data, the data on homicide rates came from the UNODC's dashboard showing intentional homicide rates, and the human freedom data used came from the CATO institute's Human Freedom Index report. 
+All correlations are calculated with Pearsons Correlation Coefficient. 
+
+
+## Data
+Productivity:
+[Sondre Solstad "All work and no play"](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates), [OECD](https://data.oecd.org/), [World Bank](https://data.worldbank.org/), [UN](https://population.un.org/dataportal/), and [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
+Happiness: [WHR](https://worldhappiness.report/data/)
+CO2 Emissions: [OWID](https://ourworldindata.org/)
+[Specific Page]([https://github.com/owid/co2-data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions))
+Homicide Rates: [UNODC](https://dataunodc.un.org)
+[Specific Page](https://dataunodc.un.org/dp-intentional-homicide-victims)
+Human Freedom: [CATO](https://www.cato.org/human-freedom-index/2021)
+[Specific Article](https://www.cato.org/human-freedom-index/2021)
+
 
 
 ## Citations
