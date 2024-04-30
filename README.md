@@ -2,7 +2,7 @@
 In October of 2023, Sondre Solstad at The Economist published an article that showed how productivity has grown faster in Western Europe than in the United States ([found here](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)). 
 This repo contains the data for an exploratory case study aiming to expand upon the Economist's article and explore potential correlations between a country's productivity and its happiness, CO2 emissions, freedom, and homicide rates over the last 15 years. 
 
-The resulting report can be found [here](https://www.ethanorionreese.com/)
+The resulting report can be found [here](https://www.ethanorionreese.com/productivity-case-study)
 
 To replicate the results of this study, please first run 'CleanDataAndExport.ipynb' and 'ProductivityDataCleaning.ipynb', then run the rest of the jupyter notbooks. 
 
